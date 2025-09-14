@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+jinja2
+torch
+torchvision
+pillow
+sqlalchemy
+pymysql
+passlib[bcrypt]
+python-jose
+FinanceDataReader
+scikit-learn
+matplotlib

@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+jinja2
+torch
+FinanceDataReader
+scikit-learn
+matplotlib
+pillow
